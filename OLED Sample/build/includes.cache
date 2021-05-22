@@ -1,0 +1,72 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\VIRUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\VIRUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\variants\\standard"
+  },
+  {
+    "Sourcefile": "d:\\Arduino\\OLED Sample\\build\\sketch\\app.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\VIRUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "d:\\Arduino\\OLED Sample\\build\\sketch\\app.ino.cpp",
+    "Include": "Adafruit_SSD1306.h",
+    "Includepath": "C:\\Users\\VIRUS\\Documents\\Arduino\\libraries\\Adafruit_SSD1306"
+  },
+  {
+    "Sourcefile": "d:\\Arduino\\OLED Sample\\build\\sketch\\app.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\VIRUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "d:\\Arduino\\OLED Sample\\build\\sketch\\app.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "C:\\Users\\VIRUS\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library-master"
+  },
+  {
+    "Sourcefile": "d:\\Arduino\\OLED Sample\\build\\sketch\\app.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\VIRUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\VIRUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\VIRUS\\Documents\\Arduino\\libraries\\Adafruit_SSD1306\\Adafruit_SSD1306.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\VIRUS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.23\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\VIRUS\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library-master\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\VIRUS\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library-master\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\VIRUS\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library-master\\glcdfont.c",
+    "Include": "",
+    "Includepath": ""
+  }
+]
